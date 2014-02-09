@@ -85,7 +85,7 @@ credits = [
     'https://raw.github.com/jashkenas/backbone/master/LICENSE'
   ], [
     'CoffeeScript',
-    '2009-2013 Jeremy Ashkenas',
+    '2009-2014 Jeremy Ashkenas',
     'MIT',
     'https://raw.github.com/jashkenas/coffee-script/master/LICENSE'
   ], [
@@ -135,9 +135,9 @@ credits = [
     'https://raw.github.com/knockout/knockout/master/LICENSE'
   ], [
     'Less',
-    '2009-2014 Alexis Sellier &amp; The Core Less Team',
-    'Apache v2',
-    'https://raw.github.com/less/less.js/master/LICENSE'
+    '2009-2014 The Core Less Team',
+    'CC BY',
+    'http://creativecommons.org/licenses/by/3.0/'
   ], [
     'Lo-Dash',
     '2009-2013 The Dojo Foundation',
